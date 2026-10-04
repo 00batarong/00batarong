@@ -3,11 +3,20 @@ Welcome to the shittiest readme.md github has ever seen
 
 here are some of my shit projects
 
-https://github.com/00batarong/batarong_codebreaker_ide The shittiest but most optimised IDE
-https://github.com/00batarong/batarong_codebreaker_ide The plugins for the shittiest IDE!
-https://github.com/00batarong/00batarong THIS FUCKING THING
-https://00batarong.neocities.org aka my original websit
-https://github.com/00batarong/3d-donut-fix SPEEN
+https://github.com/00batarong/batarong_codebreaker_ide 
+The shittiest but most optimised IDE
+
+https://github.com/00batarong/batarong_codebreaker_ide 
+The plugins for the shittiest IDE!
+
+https://github.com/00batarong/00batarong 
+THIS FUCKING THING
+
+https://00batarong.neocities.org 
+aka my original websit
+
+https://github.com/00batarong/3d-donut-fix 
+SPEEN
 
 
 <!--
